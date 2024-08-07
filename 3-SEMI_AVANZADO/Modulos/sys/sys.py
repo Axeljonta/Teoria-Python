@@ -6,5 +6,5 @@ import modulos_saludar
 
 print (modulos_saludar.saludar('Axel'))
 
-#print (sys.path)
+print (sys.path)
 #print (sys.builtin_module_names)

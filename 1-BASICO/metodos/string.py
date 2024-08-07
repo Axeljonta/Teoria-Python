@@ -52,4 +52,9 @@ resultado11 = string2.replace("capo", "pete")
 # separa cadena con la cadena que le pasemos devuelve lista o matriz
 resultado12 = string2.split(" ")
 
+#slicing 
+cadena = '0123456789'
+
+print(cadena[1:4])
+
 #------------------------------------------------------------
